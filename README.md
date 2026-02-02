@@ -6,7 +6,6 @@ Este repositório contém arquivos de teste para provar a conectividade de grafo
 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/Rodrigo-Sil/Logica_Para_Computacao.git
-cd Logica_Para_Computacao
 ```
 
 2️⃣ Instalar Vampire (Solver de LPO no Linux)
